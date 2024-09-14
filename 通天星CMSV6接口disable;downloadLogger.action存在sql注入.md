@@ -1,6 +1,6 @@
 **漏洞描述：**
 
-通天星CMSV6接口downloadLogger任意文件读取漏洞，攻击者可以通过接口读取任意服务器文件。
+通天星CMSV6接口disable;downloadLogger.action存在sql注入，攻击者可以通过拼接恶意SQL语句获取数据，进一步获取服务器权限。
 
 **影响版本：**
 
